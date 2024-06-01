@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+    background-blend-mode: luminosity;}
+
+    .loadbar{  
+        width: 200px;
+        height: 200px;
+        visibility: visible;
+        color: green;
+    }
+
